@@ -91,4 +91,4 @@ This project was created as a beginner-friendly Java mini project to practice **
 
 ## 👩‍💻 Author
 
-**Muthu Malar**
+**Muthu Malar O**
