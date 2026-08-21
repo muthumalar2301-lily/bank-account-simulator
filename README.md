@@ -89,6 +89,6 @@ Enter deposit amount: ₹2000
 
 This project was created as a beginner-friendly Java mini project to practice **object-oriented programming and basic banking operations**.
 
-## 👩‍💻 Author
+## 👩‍💻 By
 
 **Muthu Malar O**
